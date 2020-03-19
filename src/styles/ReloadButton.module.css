@@ -1,13 +1,9 @@
 .button {
   size: 3em;
-  margin-top: 1em;
+  margin-bottom: 1em;
   padding: 1em;
   border: none;
   background-color: #b34200;
   color: white;
   font-size: 1.2em;
-}
-
-.button:hover,
-.button:focus {
 }

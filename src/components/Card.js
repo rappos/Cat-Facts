@@ -1,7 +1,6 @@
 import React from "react";
 import FactLoader from "./../loaders/FactLoader";
 import style from "./../styles/Card.module.css";
-import ReloadButton from "./ReloadButton";
 
 export default function Card() {
   return (
@@ -10,7 +9,6 @@ export default function Card() {
       {/** Style-applying of the fdct is done in the FactLoader file due to god knows what. 
         Though it is still referencing the Card.module.css file*/}
       <FactLoader />
-      <ReloadButton />
     </div>
   );
 }

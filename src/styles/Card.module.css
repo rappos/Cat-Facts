@@ -2,9 +2,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  min-height: 100vh;
   background-color: aqua;
   font-family: "Open Sans", Arial, sans-serif;
-  margin: 2em 2em 0 2em;
 }
 .title {
   text-align: center;
@@ -15,4 +15,6 @@
 .fact {
   text-align: center;
   font-size: 1.5em;
+  max-width: 500px;
+  margin: 0 1em 1em 1em;
 }

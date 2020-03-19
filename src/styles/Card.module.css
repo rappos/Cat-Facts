@@ -1,0 +1,18 @@
+.cardBackground {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: aqua;
+  font-family: "Open Sans", Arial, sans-serif;
+  margin: 2em 2em 0 2em;
+}
+.title {
+  text-align: center;
+  font-family: "Roboto Slab", Cambria, serif;
+  font-size: 4em;
+}
+
+.fact {
+  text-align: center;
+  font-size: 1.5em;
+}

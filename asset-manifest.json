@@ -1,22 +1,13 @@
 {
   "files": {
-    "main.css": "/Cat-Facts/static/css/main.9528cb12.chunk.css",
-    "main.js": "/Cat-Facts/static/js/main.24ca3d2c.chunk.js",
-    "main.js.map": "/Cat-Facts/static/js/main.24ca3d2c.chunk.js.map",
-    "runtime-main.js": "/Cat-Facts/static/js/runtime-main.961ea055.js",
-    "runtime-main.js.map": "/Cat-Facts/static/js/runtime-main.961ea055.js.map",
-    "static/js/2.81c1b6bc.chunk.js": "/Cat-Facts/static/js/2.81c1b6bc.chunk.js",
-    "static/js/2.81c1b6bc.chunk.js.map": "/Cat-Facts/static/js/2.81c1b6bc.chunk.js.map",
+    "main.css": "/Cat-Facts/static/css/main.f12709b6.css",
+    "main.js": "/Cat-Facts/static/js/main.a71af0f7.js",
     "index.html": "/Cat-Facts/index.html",
-    "precache-manifest.a3cfdd1b57bf9d3d65af8896aafb3350.js": "/Cat-Facts/precache-manifest.a3cfdd1b57bf9d3d65af8896aafb3350.js",
-    "service-worker.js": "/Cat-Facts/service-worker.js",
-    "static/css/main.9528cb12.chunk.css.map": "/Cat-Facts/static/css/main.9528cb12.chunk.css.map",
-    "static/js/2.81c1b6bc.chunk.js.LICENSE.txt": "/Cat-Facts/static/js/2.81c1b6bc.chunk.js.LICENSE.txt"
+    "main.f12709b6.css.map": "/Cat-Facts/static/css/main.f12709b6.css.map",
+    "main.a71af0f7.js.map": "/Cat-Facts/static/js/main.a71af0f7.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.961ea055.js",
-    "static/js/2.81c1b6bc.chunk.js",
-    "static/css/main.9528cb12.chunk.css",
-    "static/js/main.24ca3d2c.chunk.js"
+    "static/css/main.f12709b6.css",
+    "static/js/main.a71af0f7.js"
   ]
 }
